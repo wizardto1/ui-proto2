@@ -19,9 +19,10 @@ margin:5px 2px 0px 2px;
 }
 table, th, td {
   border: 1px solid black;
-  margin:auto;
 }
 table{
   height:90%;
   width:90%;
+   margin:auto;
+   position:relative;
 }
