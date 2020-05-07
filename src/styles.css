@@ -71,8 +71,8 @@ app-top-gray-bar{
   right: 0;
   bottom: 0;
   left: 50%;
-    margin-right: -50%;
+    
     transform: translate(-50%, -50%);
     opacity:.5;
-
+  margin:0;
 }
